@@ -5,6 +5,6 @@
 - 
 - 📫 How to reach me: henriqueklug@gmail.com
 
-[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hklug001)](https://github.com/anuraghazra/github-readme-stats)
+[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[!https://img.shields.io/badge/My%20profile-Rocketseat-blueviolet]()
+[!https://img.shields.io/badge/My%20profile-Rocketseat-blueviolet](https://app.rocketseat.com.br/me/henrique-klug-09107)
