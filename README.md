@@ -1,7 +1,7 @@
 ### Hello World! I'm Henrique Klug 👋
 
 - 🔭 I'm currently looking for an internship
-- 🌱 I'm currently learning Web development
+- 🌱 I'm currently learning Web development at Rocketseat
 - 📫 How to reach me: henriqueklug@gmail.com
 
 [![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
