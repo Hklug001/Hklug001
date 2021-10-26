@@ -1,4 +1,4 @@
-## Hello World! I'm Henrique Klug 👋
+### Hello World! I'm Henrique Klug 👋
 
 - 🔭 I'm currently looking for an internship
 - 🌱 I'm currently learning Web development at Rocketseat
