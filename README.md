@@ -5,6 +5,11 @@
 - 💬 Ask me about [html, css, javascript]
 - 🔗 Access my portfolio <a href="https://hklug001.github.io/Portfolio/" target="_blank">here</a>
 
+<div style="display:flex;">
+     <img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight">
+</div>
+
 [![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Henrique's GitHub most used languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight)
 
