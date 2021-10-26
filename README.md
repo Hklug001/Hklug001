@@ -5,7 +5,7 @@
 - 💬 Ask me about [html, css, javascript]
 - 🔗 Access my portfolio <a href="https://hklug001.github.io/Portfolio/" target="_blank">here</a>
 
-<div style="align-content: center;">
+<div style="align-content: start;">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight">
      <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&langs_count=7&theme=tokyonight">
 </div>
