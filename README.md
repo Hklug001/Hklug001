@@ -1,4 +1,4 @@
-### Hello World! I'm Henrique Klug 👋
+### HELLO WORLD! I'M HENRIQUE KLUG 👋
 
 - 🔭 I'm currently looking for an internship
 - 🌱 I'm currently learning Web development at Rocketseat
@@ -7,7 +7,7 @@
 
 #
 
-### Stacks:
+### STACKS:
 
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
