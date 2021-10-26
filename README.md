@@ -3,6 +3,7 @@
 - 🔭 I'm currently looking for an internship
 - 🌱 I'm currently learning Web development at Rocketseat
 - 💬 Ask me about [html, css, javascript]
+- 🔗 Access my portfolio <a href="https://hklug001.github.io/Portfolio/" target="_blank">here</a>
 
 [![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Henrique's GitHub most used languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight)
