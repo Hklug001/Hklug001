@@ -12,4 +12,6 @@
 
  ### REACH ME ON: 
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriqueklug@gmail.com) 
- [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-klug)
+ [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-klug)<br>
+ 
+ ![](https://komarev.com/ghpvc/?username=Hklug001&color=blue&style=flat&label=visitors)
