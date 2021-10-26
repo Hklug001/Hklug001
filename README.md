@@ -7,7 +7,7 @@
 
 <div>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight">
-     <img height="190" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&langs_count=7&theme=tokyonight">
+     <img height="190" width="350" viewBox="0 0 350 190" fill="none "src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
  ### REACH ME ON: 
