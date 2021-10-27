@@ -5,7 +5,7 @@
 - 💬 Ask me about [html, css, javascript]
 - 🔗 Access my portfolio <a href="https://hklug001.github.io/Portfolio/" target="_blank">here</a>
 
-<br><br>
+<br>
 
 ## Tech Stack:
 
@@ -17,7 +17,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </div>
 
-<br><br>
+<br>
 
 ## GitHub Analytics:
 
