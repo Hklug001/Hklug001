@@ -23,7 +23,7 @@
 
 ### GitHub Analytics:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" align="right" width="320em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="320em">
 <img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="480em">
 
 #
