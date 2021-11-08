@@ -9,7 +9,7 @@
 
 #
 
-### Tech Stack:
+## Tech Stack:
 
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -21,13 +21,13 @@
 
 #
 
-### GitHub Analytics:
+## GitHub Analytics:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="380em">
 <img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="380em">
 
 #
 
-### Reach me: 
+## Connect with me: 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriqueklug@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-klug)<br>
