@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/f2/74/6a/f2746ae177a5f4bcb59cf08c8d164b13.gif" align="right" height="520em" >
+<img src="https://i.pinimg.com/originals/f2/74/6a/f2746ae177a5f4bcb59cf08c8d164b13.gif" align="right" height="580em" >
 
 ### Hello World! I'm Henrique Klug <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
@@ -24,7 +24,7 @@
 ### GitHub Analytics:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="380em">
-<img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="380em">
 
 #
 
