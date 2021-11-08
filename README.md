@@ -23,7 +23,7 @@
 
 ### GitHub Analytics:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="420em">
+<img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="460em">
 
 #
 
