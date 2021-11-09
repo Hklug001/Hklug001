@@ -2,11 +2,11 @@
 
 ## Hello World! I'm Henrique Klug <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-- 🔭 looking for an internship
-- 🚀 learning Web development at Rocketseat 
-- 💬 Ask me about [```html```, ```css```, ```javascript```]
-- 🔗 Access my portfolio <a href="https://hklug001.github.io/Portfolio/" target="_blank">here</a>
-- ⚡ Fun fact I got the Dark Souls 3 platinum trophy 🎮🏆
+- 🔭 **looking** for an internship
+- 🚀 **learning** Web development at Rocketseat 
+- 💬 **Ask me about** [```html```, ```css```, ```javascript```]
+- 🔗 **Access my portfolio** <a href="https://hklug001.github.io/Portfolio/" target="_blank">here</a>
+- ⚡ **Fun fact** I got the Dark Souls 3 platinum trophy 🎮🏆
 
 <br>
 
