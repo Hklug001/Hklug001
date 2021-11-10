@@ -23,8 +23,8 @@
 
 ## GitHub Analytics:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="390em">
-<img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="390em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="420em">
+<img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="420em">
 
 ## Connect with me: 
 [![Gmail](https://img.shields.io/badge/Gmail-henriqueklug%40gmail.com-critical)](mailto:henriqueklug@gmail.com) 
