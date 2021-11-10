@@ -24,7 +24,7 @@
 ## GitHub Analytics:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="30%" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="40%">
 
 ## Connect with me: 
 [![Gmail](https://img.shields.io/badge/Gmail-henriqueklug%40gmail.com-critical)](mailto:henriqueklug@gmail.com) 
