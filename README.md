@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif?cid=ecf05e47x5iopk61t3e5sq8dsfcbzvhb7ey0d2ydhz5sd2ru&rid=giphy.gif&ct=g" width="100%" height="10%">
+<img src="https://media1.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif?cid=ecf05e47x5iopk61t3e5sq8dsfcbzvhb7ey0d2ydhz5sd2ru&rid=giphy.gif&ct=g" width="100%" height="5%">
 
 ## Hello World! I'm Henrique Klug <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
