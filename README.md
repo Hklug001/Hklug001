@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif?cid=ecf05e47x5iopk61t3e5sq8dsfcbzvhb7ey0d2ydhz5sd2ru&rid=giphy.gif&ct=g">
+<img src="https://media1.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif?cid=ecf05e47x5iopk61t3e5sq8dsfcbzvhb7ey0d2ydhz5sd2ru&rid=giphy.gif&ct=g" width="100%">
 
 ## Hello World! I'm Henrique Klug <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
@@ -23,8 +23,8 @@
 
 ## GitHub Analytics:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="430em">
-<img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="430em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="50%">
 
 ## Connect with me: 
 [![Gmail](https://img.shields.io/badge/Gmail-henriqueklug%40gmail.com-critical)](mailto:henriqueklug@gmail.com) 
