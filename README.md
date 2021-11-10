@@ -6,7 +6,6 @@
 - 🚀 **learning** Web development at Rocketseat 
 - 💬 **Ask me about** [```html```, ```css```, ```javascript```]
 - 🔗 **Access my portfolio** <a href="https://hklug001.github.io/Portfolio/" target="_blank">here</a>
-- ⚡ **Fun fact** I got the Dark Souls 3 platinum trophy 🎮🏆
 
 <br>
 
