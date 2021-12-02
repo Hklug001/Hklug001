@@ -21,7 +21,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="43%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="44%">
 </div>
 
 <br>
