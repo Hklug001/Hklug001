@@ -5,6 +5,11 @@
 - 💬 **Ask me about** [```html```, ```css```, ```javascript```]
 - 🔗 **Access my portfolio** <a href="https://hklug001.github.io/Portfolio/" target="_blank">here</a>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="30%">
+</div>
+
 <br>
 
 ## Tech Stack:
