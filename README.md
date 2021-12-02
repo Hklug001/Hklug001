@@ -16,7 +16,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
 #
-### Connect with me:
+### Reach me on:
 [![Gmail](https://img.shields.io/badge/Gmail-henriqueklug%40gmail.com-critical)](mailto:henriqueklug@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/My%20profile-Linkedin-informational)](https://www.linkedin.com/in/henrique-klug)
 [![Rocketseat](https://img.shields.io/badge/My%20profile-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/henrique-klug-09107)
