@@ -11,13 +11,12 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="40" height="40" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
-## GitHub Analytics:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="44%">
 </div>
 
-## Connect with me:
+### Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-henriqueklug%40gmail.com-critical)](mailto:henriqueklug@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/My%20profile-Linkedin-informational)](https://www.linkedin.com/in/henrique-klug)
 [![Rocketseat](https://img.shields.io/badge/My%20profile-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/henrique-klug-09107)
