@@ -17,7 +17,7 @@
 
 <br>
 
-## GitHub Analytics
+## GitHub Analytics:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="45%">
