@@ -1,10 +1,11 @@
 # Hello World! I'm Henrique Klug <img src="https://media1.giphy.com/media/C7yrmfAcGSLLvThkUw/giphy.gif?cid=ecf05e47asoekn6z8pza287fy6cki1ygz4z0j914qppl8v24&rid=giphy.gif&ct=g" width="30px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" align="right">
 - 🔭 **looking** for an internship
 - 🚀 **learning** Web development at Rocketseat 
 - 💬 **Ask me about** [```html```, ```css```, ```javascript```]
 - 🔗 **Access my portfolio** <a href="https://hklug001.github.io/Portfolio/" target="_blank">here</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" align="right">
+
 
 ## Tech Stack:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" align="left"/>
