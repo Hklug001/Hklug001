@@ -4,8 +4,8 @@
 
 - 🔭 **looking** for an internship
 - 🚀 **learning** Web development at Rocketseat 
-- 💬 **Ask me about** [```html```, ```css```, ```javascript```]
-- 🔗 **Access my portfolio** <a href="https://hklug001.github.io/Portfolio/" target="_blank">here</a>
+- 💬 **Ask me** about [```html```, ```css```, ```javascript```]
+- 🔗 **Portfolio** <a href="https://hklug001.github.io/Portfolio/" target="_blank">here</a>
 
 #
 ### Tech Stack:
