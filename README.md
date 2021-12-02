@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight">
 </div>
 
-### Connect with me:
+## Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-henriqueklug%40gmail.com-critical)](mailto:henriqueklug@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/My%20profile-Linkedin-informational)](https://www.linkedin.com/in/henrique-klug)
 [![Rocketseat](https://img.shields.io/badge/My%20profile-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/henrique-klug-09107)
