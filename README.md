@@ -1,4 +1,7 @@
-
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="40%">
+</div>
 
 ## Hello World! I'm Henrique Klug <img src="https://media1.giphy.com/media/C7yrmfAcGSLLvThkUw/giphy.gif?cid=ecf05e47asoekn6z8pza287fy6cki1ygz4z0j914qppl8v24&rid=giphy.gif&ct=g" width="30px">
 
@@ -19,14 +22,6 @@
 
 
 <br>
-
-## GitHub Analytics:
-
-<div display="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hklug001&theme=tokyonight" width="46%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" width="45%">
-</div>
-
 
 ## Connect with me: 
 [![Gmail](https://img.shields.io/badge/Gmail-henriqueklug%40gmail.com-critical)](mailto:henriqueklug@gmail.com) 
