@@ -16,6 +16,10 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
 #
+
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+
+#
 ### Reach me on:
 [![Gmail](https://img.shields.io/badge/Gmail-henriqueklug%40gmail.com-critical)](mailto:henriqueklug@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/My%20profile-Linkedin-informational)](https://www.linkedin.com/in/henrique-klug)
