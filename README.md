@@ -1,4 +1,4 @@
-<img align="right" height="420em" margin-top="60em" src="https://media3.giphy.com/media/10jYACUrFLPQC4/giphy.gif"/>
+<img align="right" height="480em" margin-top="60em" src="https://media3.giphy.com/media/10jYACUrFLPQC4/giphy.gif"/>
 
 ## Hello World! I'm Henrique Klug <img src="https://media1.giphy.com/media/C7yrmfAcGSLLvThkUw/giphy.gif?cid=ecf05e47asoekn6z8pza287fy6cki1ygz4z0j914qppl8v24&rid=giphy.gif&ct=g" width="30px">
 
