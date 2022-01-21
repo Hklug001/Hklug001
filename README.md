@@ -1,4 +1,4 @@
-<img align="right" height="525em" width="200em" margin-top="60em" src="https://media.tenor.com/images/e85924b87c7518cfa59093695703fb35/tenor.gif"/>
+<img align="right" height="525em" width="360em" margin-top="60em" src="https://media.tenor.com/images/e85924b87c7518cfa59093695703fb35/tenor.gif"/>
 
 ## Hello World! I'm Henrique Klug <img src="https://media1.giphy.com/media/C7yrmfAcGSLLvThkUw/giphy.gif?cid=ecf05e47asoekn6z8pza287fy6cki1ygz4z0j914qppl8v24&rid=giphy.gif&ct=g" width="30px">
 
