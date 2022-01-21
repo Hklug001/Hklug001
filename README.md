@@ -17,7 +17,7 @@
 
 #
 
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" alt="HKlug's most languages"/>
 
 #
 ### Reach me on:
