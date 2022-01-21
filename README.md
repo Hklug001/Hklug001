@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif"/>
+<img align="right" height="400em" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif"/>
 
 ## Hello World! I'm Henrique Klug <img src="https://media1.giphy.com/media/C7yrmfAcGSLLvThkUw/giphy.gif?cid=ecf05e47asoekn6z8pza287fy6cki1ygz4z0j914qppl8v24&rid=giphy.gif&ct=g" width="30px">
 
