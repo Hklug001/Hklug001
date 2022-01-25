@@ -5,7 +5,7 @@
 ### About me:
 
 - 🔭 **Workin on:** my portfolio
-- 🚀 **learning Web:** development at Rocketseat 
+- 🚀 **learning:** Web development at Rocketseat 
 - 🦾 **Goal**: Get Hired and connect with people
 - 💬 **Ask me about:** [```HTML```, ```CSS```, ```JavaScript```]
 
