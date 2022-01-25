@@ -4,10 +4,11 @@
 
 ### About me:
 
-- 🔭 **looking** for an internship
-- 🚀 **learning** Web development at Rocketseat 
-- 💬 **Ask me** about [```html```, ```css```, ```javascript```]
-- 🔗 https://hklug001.github.io/Portfolio/
+- 🔭 looking for an internship
+- 💼 UTFPR student
+- 🚀 learning Web development at Rocketseat 
+- 💬 Ask me about [```html```, ```css```, ```javascript```]
+- 🦾 2022 Goal: Get Hired 
 
 #
 
