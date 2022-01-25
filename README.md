@@ -7,7 +7,7 @@
 - 🔭 **looking** for an internship
 - 🚀 **learning** Web development at Rocketseat 
 - 💬 **Ask me** about [```html```, ```css```, ```javascript```]
-- 🔗 <a href="https://hklug001.github.io/Portfolio/" target="_blank">**Portfolio**</a>
+- 🔗 https://hklug001.github.io/Portfolio/
 
 #
 
