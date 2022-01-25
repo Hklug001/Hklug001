@@ -7,7 +7,7 @@
 - 🔭 Workin on my portfolio
 - 💼 looking for an internship
 - 🚀 learning Web development at Rocketseat 
-- 🦾 Goal: Get Hired and connect with people
+- 🦾 **Goal**: Get Hired and connect with people
 
 #
 
