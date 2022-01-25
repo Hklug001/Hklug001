@@ -4,11 +4,11 @@
 
 ### About me:
 
-- 🔭 looking for an internship
-- 💼 UTFPR student
+- 🔭 Workin on my portfolio
+- 💼 looking for an internship
 - 🚀 learning Web development at Rocketseat 
 - 💬 Ask me about [```html```, ```css```, ```javascript```]
-- 🦾 2022 Goal: Get Hired 
+- 🦾 2022 Goal: Get Hired and connect with people
 
 #
 
