@@ -5,8 +5,8 @@
 **About me:**
 
 Code enthusiast, looking to connect with people and build my career.
-I'm currently studying web development at @Rocketseat and Information Systems at UTFPR
-My goals for 2022 are, get hired and contribute to a project
+I'm currently studying web development at @Rocketseat and Information Systems at UTFPR.
+My goals for 2022 are, to get hired and contribute to a project.
 
 **My Stack:**
 
