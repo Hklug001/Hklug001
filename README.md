@@ -24,12 +24,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br>
-
-<div>
+<br>
+<br>
+<br>
+<br>
 
 **Connect with me:**
 
 [![Gmail](https://img.shields.io/badge/-henriqueklug@gmail.com-6633cc?style=flat-square&color=critical&logo=Gmail&logoColor=white&link=https://mailto:henriqueklug@gmail.com)](mailto:henriqueklug@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-Henrique%20Klug-6633cc?style=flat-square&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-klug/)](https://www.linkedin.com/in/henrique-klug/)
-  
-</div>
