@@ -26,7 +26,4 @@
 **Connect with me:**
 
 [![Gmail](https://img.shields.io/badge/-henriqueklug@gmail.com-6633cc?style=flat-square&color=critical&logo=Gmail&logoColor=white&link=https://mailto:henriqueklug@gmail.com)](mailto:henriqueklug@gmail.com) 
-
 [![Linkedin](https://img.shields.io/badge/-Henrique%20Klug-6633cc?style=flat-square&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-klug/)](https://www.linkedin.com/in/henrique-klug/)
-
-[![Rocketseat](img.shields.io/badge/-Rocketseat%20Profile-6633cc?style=flat-square&color=blueviolet&logo=&logoColor=white&link=https://https://app.rocketseat.com.br/me/henrique-klug-09107)](https://app.rocketseat.com.br/me/henrique-klug-09107)
