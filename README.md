@@ -8,8 +8,6 @@ I'm currently studying web development at @Rocketseat and Information Systems at
 
 GoalsFor2022 = [`Get hired`, `Contribute to a project`, `English fluency`];
   
-<br><br>
-  
 ***My stack:***
 
 <img width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" alt="HKlug's most languages" align="left"/>
