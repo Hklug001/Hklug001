@@ -4,11 +4,11 @@
 
 *About:*
 
-Intern at Bosch. <br>
-Code enthusiast, looking to connect with people and build my career. <br>
-I'm currently studying web development at @Rocketseat and Information Systems at UTFPR.<br>
+  Intern at Bosch. <br>
+  Code enthusiast, looking to connect with people and build my career. <br>
+  I'm currently studying web development at @Rocketseat and Information Systems at UTFPR.<br>
 
-GoalsFor2022 = [`Get hired`, `Contribute to a project`, `English fluency`];
+  GoalsFor2022 = [`Get hired`, `Contribute to a project`, `English fluency`];
 
 *Connect with me:*
 
