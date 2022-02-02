@@ -2,10 +2,11 @@
 
 ## Hello World! I'm Henrique Klug <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-**Intern at Bosch**
-
-Code enthusiast, looking to connect with people and build my career. <br>
-I'm currently studying web development at @Rocketseat and Information Systems at UTFPR.<br>
+const hklug = {
+  job: Intern at Bosch, <br>
+  about: Code enthusiast, looking to connect with people and build my career, <br>
+  more: I'm currently studying web development at @Rocketseat and Information Systems at UTFPR,<br>
+}
 
 GoalsFor2022 = [`Get hired`, `Contribute to a project`, `English fluency`];
 
