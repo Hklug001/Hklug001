@@ -9,6 +9,11 @@
 - 🦾 **Goal**: Get Hired and connect with people
 - 💬 **Ask me about:** [```HTML```, ```CSS```, ```JavaScript```]
 
+**Reach me on:**
+[![Gmail](https://img.shields.io/badge/Gmail-henriqueklug%40gmail.com-critical)](mailto:henriqueklug@gmail.com) 
+[![Linkedin](https://img.shields.io/badge/My%20profile-Linkedin-informational)](https://www.linkedin.com/in/henrique-klug)
+[![Rocketseat](https://img.shields.io/badge/My%20profile-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/henrique-klug-09107)
+
 **Tech Stack:**
 
 <img width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" alt="HKlug's most languages" align="left"/>
@@ -22,7 +27,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-**Reach me on:**
-[![Gmail](https://img.shields.io/badge/Gmail-henriqueklug%40gmail.com-critical)](mailto:henriqueklug@gmail.com) 
-[![Linkedin](https://img.shields.io/badge/My%20profile-Linkedin-informational)](https://www.linkedin.com/in/henrique-klug)
-[![Rocketseat](https://img.shields.io/badge/My%20profile-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/henrique-klug-09107)
+
