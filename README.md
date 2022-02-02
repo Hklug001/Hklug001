@@ -7,9 +7,9 @@
   I'm currently studying web development at @Rocketseat and Information Systems at UTFPR.<br>
 
   GoalsFor2022 = [`Get hired`, `Contribute to a project`, `English fluency`];
+  
 
-[![Gmail](https://img.shields.io/badge/-henriqueklug@gmail.com-6633cc?style=flat-square&color=blue&logo=Gmail&logoColor=white&link=https://mailto:henriqueklug@gmail.com)](mailto:henriqueklug@gmail.com) 
-[![Linkedin](https://img.shields.io/badge/-Henrique%20Klug-6633cc?style=flat-square&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-klug/)](https://www.linkedin.com/in/henrique-klug/)
+***My stack:***
 
 <img width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" alt="HKlug's most languages" align="left"/>
 
@@ -21,3 +21,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+***Connect with me:***
+
+[![Gmail](https://img.shields.io/badge/-henriqueklug@gmail.com-6633cc?style=flat-square&color=blue&logo=Gmail&logoColor=white&link=https://mailto:henriqueklug@gmail.com)](mailto:henriqueklug@gmail.com) 
+[![Linkedin](https://img.shields.io/badge/-Henrique%20Klug-6633cc?style=flat-square&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-klug/)](https://www.linkedin.com/in/henrique-klug/)
