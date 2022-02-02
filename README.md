@@ -2,20 +2,14 @@
 
 ## Hello World! I'm Henrique Klug <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-***About:***
-
   Intern at Bosch. <br>
   Code enthusiast, looking to connect with people and build my career. <br>
   I'm currently studying web development at @Rocketseat and Information Systems at UTFPR.<br>
 
   GoalsFor2022 = [`Get hired`, `Contribute to a project`, `English fluency`];
 
-***Connect with me:***
-
 [![Gmail](https://img.shields.io/badge/-henriqueklug@gmail.com-6633cc?style=flat-square&color=blue&logo=Gmail&logoColor=white&link=https://mailto:henriqueklug@gmail.com)](mailto:henriqueklug@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-Henrique%20Klug-6633cc?style=flat-square&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-klug/)](https://www.linkedin.com/in/henrique-klug/)
-
-***Stack:***
 
 <img width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=tokyonight" alt="HKlug's most languages" align="left"/>
 
