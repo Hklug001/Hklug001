@@ -4,8 +4,8 @@
 
 Intern at Bosch
 
-Code enthusiast, looking to connect with people and build my career.
-I'm currently studying web development at @Rocketseat and Information Systems at UTFPR.
+Code enthusiast, looking to connect with people and build my career. <br>
+I'm currently studying web development at @Rocketseat and Information Systems at UTFPR.<br>
 
 GoalsFor2022 = [`Get hired`, `Contribute to a project`, `English fluency`];
 
