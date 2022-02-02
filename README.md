@@ -9,6 +9,8 @@ Code enthusiast, looking to connect with people and build my career. <br>
 I'm currently studying web development at @Rocketseat and Information Systems at UTFPR.<br>
 
 GoalsFor2022 = [`Get hired`, `Contribute to a project`, `English fluency`];
+
+<br>
   
 ***My stack:***
 
@@ -23,7 +25,7 @@ GoalsFor2022 = [`Get hired`, `Contribute to a project`, `English fluency`];
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br>
+<br><br><br>
 
 ***Connect with me:***
 
