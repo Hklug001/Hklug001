@@ -31,3 +31,4 @@ GoalsFor2022 = [`Get hired`, `Contribute to a project`, `English fluency`];
 
 [![Gmail](https://img.shields.io/badge/-henriqueklug@gmail.com-6633cc?style=flat-square&color=blue&logo=Gmail&logoColor=white&link=https://mailto:henriqueklug@gmail.com)](mailto:henriqueklug@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-Henrique%20Klug-6633cc?style=flat-square&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-klug/)](https://www.linkedin.com/in/henrique-klug/)
+[![Twitter](https://img.shields.io/badge/-KlugHenrique-6633cc?style=flat-square&color=blue&logo=Twitter&logoColor=white&link=https://www.twitter.com/klugHenrique)](www.twitter.com/klugHenrique)
