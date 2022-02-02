@@ -4,10 +4,11 @@
 
 **About me:**
 
-- 🔭 **Workin on:** my portfolio
-- 🚀 **learning:** Web development at Rocketseat 
-- 🦾 **Goal**: Get Hired and connect with people
-- 💬 **Ask me about:** [```HTML```, ```CSS```, ```JavaScript```]
+Code enthusiast, looking to connect with people and build my career
+
+I'm currently studying web development at @Rocketseat and studying Information Systems at UTFPR
+
+My 2022 goals are, get hired and contribute to a project
 
 **My Stack:**
 
