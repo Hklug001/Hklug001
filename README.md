@@ -25,8 +25,8 @@
 
 **Connect with me:**
 
-[![Gmail](https://img.shields.io/badge/Gmail-henriqueklug%40gmail.com-critical)](mailto:henriqueklug@gmail.com) 
+[![Gmail](https://img.shields.io/badge/-henriqueklug@gmail.com-6633cc?style=flat-square&color=critical&logo=Gmail&logoColor=white&link=https://mailto:henriqueklug@gmail.com)])](mailto:henriqueklug@gmail.com) 
 
 [![Linkedin](https://img.shields.io/badge/-Henrique%20Klug-6633cc?style=flat-square&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-klug/)](https://www.linkedin.com/in/henrique-klug/)
 
-[![Rocketseat](https://img.shields.io/badge/My%20profile-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/henrique-klug-09107)
+[![Rocketseat](img.shields.io/badge/-Rocketseat%20Profile-6633cc?style=flat-square&color=blueviolet&logo=&logoColor=white&link=https://https://app.rocketseat.com.br/me/henrique-klug-09107)])(https://app.rocketseat.com.br/me/henrique-klug-09107)
