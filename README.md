@@ -8,7 +8,7 @@ I'm currently studying web development at `@Rocketseat` and Information Systems 
 
 Goals for 2022: *Get hired*,  *Contribute to a project*,  *English fluency*
 
-<br><br>
+<br>
 
 ***My stack:***
 
