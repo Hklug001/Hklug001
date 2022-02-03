@@ -1,11 +1,14 @@
 <!--<img align="right" height="525em" width="290em" margin-top="60em" src="https://media.tenor.com/images/e85924b87c7518cfa59093695703fb35/tenor.gif"/>-->
 
 ## Hello World! I'm Henrique Klug <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-Intern at Bosch. <br>
+Intern at Bosch.
+
 Code enthusiast, looking to connect with people and build my career. <br>
 I'm currently studying web development at `@Rocketseat` and Information Systems at UTFPR.<br>
 
-Goals for 2022: *Get hired*,  *Contribute to a project*,  *English fluency* <br>
+Goals for 2022: *Get hired*,  *Contribute to a project*,  *English fluency*
+
+<br><br>
 
 ***My stack:***
 
