@@ -24,7 +24,7 @@ Goals for 2022: ~~*Get hired*~~,  *Contribute to a project*,  *English fluency*
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 
-<br><br>
+<br>
 
 ### ***Connect with me:***
 
