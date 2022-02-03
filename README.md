@@ -1,7 +1,7 @@
 <!--<img align="right" height="525em" width="290em" margin-top="60em" src="https://media.tenor.com/images/e85924b87c7518cfa59093695703fb35/tenor.gif"/>-->
 
 ## Hello World! I'm Henrique Klug <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-***About:***
+### ***About:***
 
 Intern at Bosch.
 
@@ -12,7 +12,7 @@ Goals for 2022: *Get hired*,  *Contribute to a project*,  *English fluency*
 
 <br>
 
-***My stack:***
+### ***My stack:***
 
 <img width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact" alt="HKlug's most languages" align="left"/>
 
@@ -27,7 +27,7 @@ Goals for 2022: *Get hired*,  *Contribute to a project*,  *English fluency*
 
 <br><br><br>
 
-***Connect with me:***
+### ***Connect with me:***
 
 [![Gmail](https://img.shields.io/badge/-henriqueklug@gmail.com-6633cc?style=flat-square&color=blue&logo=Gmail&logoColor=white&link=https://mailto:henriqueklug@gmail.com)](mailto:henriqueklug@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-Henrique%20Klug-6633cc?style=flat-square&color=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-klug/)](https://www.linkedin.com/in/henrique-klug/)
