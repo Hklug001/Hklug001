@@ -1,6 +1,8 @@
 <!--<img align="right" height="525em" width="290em" margin-top="60em" src="https://media.tenor.com/images/e85924b87c7518cfa59093695703fb35/tenor.gif"/>-->
 
 ## Hello World! I'm Henrique Klug <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+***About:***
+
 Intern at Bosch.
 
 Code enthusiast, looking to connect with people and build my career. <br>
