@@ -12,7 +12,7 @@ Goals for 2022: [x] ~~*Get hired*~~, [ ] *Contribute to a project*,  [ ] *Englis
 
 ### ***My stack:***
 
-<!--<img width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=cobalt" alt="HKlug's most languages" align="left"/>-->
+<img width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hklug001&layout=compact&theme=cobalt" alt="HKlug's most languages" align="left"/>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
