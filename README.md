@@ -6,7 +6,7 @@
 Intern at Bosch.
 
 Code enthusiast, looking to connect with people and build my career. <br>
-I'm currently learning more about IoT, electronics and data science.<br>
+I'm currently learning more about fullstack development.<br>
 
 Goals for 2022: [x] *Get hired*, [ ] *Contribute to a project*,  [ ] *English fluency*
 
