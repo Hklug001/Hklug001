@@ -27,7 +27,7 @@ I'm currently learning more about NodeJS.<br>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;<br>
 
-<br><br>
+<br><br><br>
 
 ### ***Connect with me:***
 
