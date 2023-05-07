@@ -5,7 +5,7 @@
 
 Full Stack Developer at Bosch.
 
-Looking to connect with people and build my career. <br>
+Looking to connect with people. <br>
 I'm currently learning more about NodeJS.<br>
 
 ### ***My stack:***
