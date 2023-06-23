@@ -4,9 +4,9 @@
 ### ***About:***
 
 I work as a Full Stack Developer at Bosch Brazil, <br>
-but I'm also a Student of System's Information (UTFPR).<br>
+but I'm also a System's Information Student at UTFPR.<br>
 
-Currently I'm focusing in learning more about Node JS and its frameworks.<br>
+Currently I'm focusing in learning more about Azure Cloud and NodeJS frameworks.<br>
 
 ### ***My stack:***
 
